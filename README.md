@@ -21,7 +21,6 @@ I don't just build dashboards. I answer *why* metrics move — and what to do ab
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -43,7 +42,7 @@ End-to-end churn analysis on 1,000+ customer records using Excel and Power BI.
 - Found short-tenure customers (1–2 years) churn at ~28% — the highest risk window
 - Proposed actionable retention strategies by segment
 
-**Tools:** Excel · Power BI · PivotTables · DAX
+**Tools:** Excel · Power BI · PivotTables 
 
 ---
 
@@ -53,7 +52,7 @@ SQL + Power BI cohort analysis on 30,000+ customer transactions.
 - Identified Month 2–3 as the critical drop-off point for most cohorts
 - Surfaced high-LTV cohorts to guide marketing budget allocation
 
-**Tools:** SQL (MySQL) · Power BI · CSV
+**Tools:** SQL (MySQL) · Power BI .
 
 ---
 
