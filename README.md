@@ -59,7 +59,7 @@ SQL + Power BI cohort analysis on 30,000+ customer transactions.
 
 ## 📈 Currently
 
-- 🔍 Actively seeking **Data Analyst Internships** in Gurugram / NCR startups
+- 🔍 Actively seeking **Data Analyst Internships** in startups
 - 📚 Deepening Python for data analysis and advancing SQL skills
 - 🏗️ Building toward AI development and product analytics
 
