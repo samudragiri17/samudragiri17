@@ -1,4 +1,4 @@
-# Hi, I'm Samudra Giri 👋
+# Hi, I'm Samudra Giri
 
 **Data Analyst** based in Gurugram, India — turning messy business data into decisions that actually matter.
 
@@ -6,7 +6,7 @@ I don't just build dashboards. I answer *why* metrics move — and what to do ab
 
 ---
 
-## 🔍 What I Do
+## What I Do
 
 - Transform raw transactional and behavioral data into clear business insights
 - Build automated, KPI-driven dashboards that reduce manual reporting effort
@@ -15,7 +15,7 @@ I don't just build dashboards. I answer *why* metrics move — and what to do ab
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -24,7 +24,7 @@ I don't just build dashboards. I answer *why* metrics move — and what to do ab
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### 🔹 [Sales & Profit Intelligence Dashboard](https://github.com/samudragiri17/Sales_Profit_Intelligence_Dashboard)
 Power BI dashboard analyzing 1,000+ sales transactions across regions, categories, and segments.
@@ -56,15 +56,15 @@ SQL + Power BI cohort analysis on 30,000+ customer transactions.
 
 ---
 
-## 📈 Currently
+## Currently
 
-- 🔍 Actively seeking **Data Analyst Internships** in startups
-- 📚 Deepening Python for data analysis and advancing SQL skills
-- 🏗️ Building toward AI development and product analytics
+- Actively seeking **Data Analyst Internships** in startups
+- Deepening Python for data analysis and advancing SQL skills
+- Building toward AI development and product analytics
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samudra-giri-90a5491b7)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samudragiri07@gmail.com)
